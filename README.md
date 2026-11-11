@@ -1,6 +1,6 @@
 # Snapchat Clone 📸
 
-Ek fun aur entertaining **Snapchat clone** jo sabke entertainment ke liye banaya gaya hai. Yeh project Snapchat ke core features ko replicate karta hai — snaps bhejna, stories, aur ephemeral messaging ka maza.
+Ek fun aur entertaining **Snapchat clone** jo sabke entertainment ke liye banaya gaya hai. Yeh project Snapchat ke core features ko replicate karta hai — snaps bhejna, stories, aur ephemeral messaging ka maza yha pe hr cheez m mza hi aayega ghaaiss
 
 ## 🎯 About The Project
 
