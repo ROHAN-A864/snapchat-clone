@@ -1,7 +1,3 @@
 hii, guys this side Rohan chaturvedi and i am going to make this repository coz i am builidng 
 something insane which is snapchat-clone but i am not going to make a big tech team initial
-<<<<<<< HEAD
-so guys what abt u all do u all know something suspecious abt future
-=======
 so u all got to know my identity
->>>>>>> 644bb53efdaa5ff2bfe2fb94f75916db6cf02300
